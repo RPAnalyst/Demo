@@ -6,6 +6,7 @@
 -[DATA SOURCES](#data-sources)
 -[Tools](#tools)
 ### Project Overview
+---
 this is just for learning 
 
 ### DATA SOURCES
@@ -47,3 +48,19 @@ BIKE Data
 
 
 [stack overflow](http://stack.com)
+
+📁
+
+🧤
+
+|Heading1|Heading2|
+|--------|--------|
+|content|content2|
+|python|SQL|
+
+`column_1`
+
+**bold**
+
+*italic*
+
